@@ -1,0 +1,17 @@
+{
+  "name": "native_relaxation",
+  "displayName": "native_relaxation",
+  "expo": {
+    "name": "native_relaxation",
+    "slug": "native_relaxation",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
